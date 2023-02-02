@@ -1,6 +1,6 @@
 {
     "name": "fortnite-api-io-v2",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "description": "Nodejs module for making requests to fortniteapi.io with the last endpoint versions.",
     "main": "index.js",
     "author": "Max Pike",

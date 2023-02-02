@@ -1,6 +1,6 @@
 # fortnite-api-io-updated
 
-[![npm version](https://flat.badgen.net/npm/v/fortnite-api-io)](https://www.npmjs.com/package/fortnite-api-io)
+[![npm version](https://flat.badgen.net/npm/v/fortnite-api-io-v2)](https://www.npmjs.com/package/fortnite-api-io)
 
 A fork from the fortnite-api-io module with last endpoints versions.
 
