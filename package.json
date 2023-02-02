@@ -1,0 +1,35 @@
+{
+    "name": "fortnite-api-io-v2",
+    "version": "2.0.0",
+    "description": "Nodejs module for making requests to fortniteapi.io with the last endpoint versions.",
+    "main": "index.js",
+    "author": "Max Pike",
+    "contributors": [],
+    "license": "MIT",
+    "scripts": {
+        "test": "npx tape test",
+        "test:coverage": "nyc tape test"
+    },
+    "keywords": [
+        "fortnite",
+        "fortnite-api",
+        "fortnite-api-io"
+    ],
+    "bugs": "https://github.com/maxix74fr/fortnite-api-io/issues",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/maxix74fr/fortnite-api-io.git"
+    },
+    "files": [
+        "index.js",
+        "lib/**"
+    ],
+    "dependencies": {
+        "node-fetch": "^3.3.0"
+    },
+    "devDependencies": {
+        "eslint": "^6.8.0",
+        "nyc": "^15.1.0",
+        "tape": "^4.13.3"
+    }
+}
