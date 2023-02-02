@@ -2,8 +2,6 @@
 
 [![npm version](https://flat.badgen.net/npm/v/fortnite-api-io)](https://www.npmjs.com/package/fortnite-api-io)
 
-![](https://github.com/benhawley7/fortnite-api-io/workflows/Node.js%20CI/badge.svg)
-
 A fork from the fortnite-api-io module with last endpoints versions.
 
 Simple Wrapper Module for making API calls to https://fortniteapi.io.

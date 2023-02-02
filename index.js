@@ -2,7 +2,7 @@
  * fortnite-api-io
  * Module to make API calls to fortniteapi.io
  *
- * @author Ben Hawley
+ * @author Max Pike
  * @license MIT
  */
 

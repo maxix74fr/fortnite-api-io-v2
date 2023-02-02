@@ -1,6 +1,6 @@
 {
     "name": "fortnite-api-io-v2",
-    "version": "2.0.0",
+    "version": "1.0.0",
     "description": "Nodejs module for making requests to fortniteapi.io with the last endpoint versions.",
     "main": "index.js",
     "author": "Max Pike",
@@ -15,10 +15,10 @@
         "fortnite-api",
         "fortnite-api-io"
     ],
-    "bugs": "https://github.com/maxix74fr/fortnite-api-io/issues",
+    "bugs": "https://github.com/maxix74fr/fortnite-api-io-v2/issues",
     "repository": {
         "type": "git",
-        "url": "https://github.com/maxix74fr/fortnite-api-io.git"
+        "url": "https://github.com/maxix74fr/fortnite-api-io-v2.git"
     },
     "files": [
         "index.js",
