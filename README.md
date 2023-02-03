@@ -26,8 +26,6 @@ const client = new FortniteAPI("credentials-go-here", {
 ```
 
 ## Example API Calls
-The API is currently transitioning into its second version. Where available, it is highly recommended to use the version 2 endpoint.
-
 ```js
 // Get the next upcoming items
 const upcomingItems = await client.listItems();
